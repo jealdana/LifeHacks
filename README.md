@@ -18,4 +18,4 @@ School of Electrical and Computer Engineering
 
 Purdue University
 
-ORCID: orcid.org/0000-0001-8560-2673
+ORCID: [orcid.org/0000-0001-8560-2673](orcid.org/0000-0001-8560-2673)
