@@ -1,4 +1,4 @@
-# Life Hacks
+# Productivity
 
 In this section you will find ways (that I have already implemented) to get better results and I know that they will help you too.
 You can find methodologies, tools, tips and many other things that will contribute to your personal success.
