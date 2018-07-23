@@ -1,0 +1,8 @@
+
+
+Make a sidebar on your jupyter notebook 
+```
+%%javascript
+$('<div id="toc"></div>').css({position: 'fixed', top: '120px', left: 0}).appendTo(document.body);
+$.getScript('https://kmahelona.github.io/ipython_notebook_goodies/ipython_notebook_toc.js');
+```
